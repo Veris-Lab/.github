@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Veris-Lab/.github/main/assets/banner.png" alt="Veris - Identity verification infrastructure" width="100%" />
+  <img src="https://raw.githubusercontent.com/Veris-Lab/.github/main/assets/veris linkdin.png" alt="Veris - Identity verification infrastructure" width="100%" />
 </div>
 
 # Welcome to Veris
