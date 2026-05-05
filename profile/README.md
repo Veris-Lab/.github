@@ -21,6 +21,6 @@ Veris is identity verification infrastructure for modern mobile apps. It lets de
 
 ## Documentation
 
-Full documentation at [verisinfra.com/docs](https://verisinfra.com/docs)
+Full documentation at [docs.verisinfra.com](https://docs.verisinfra.com/)
 
 Get a free sandbox key at [verisinfra.com](https://verisinfra.com) - no payment, no KYC required.
